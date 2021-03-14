@@ -1,0 +1,26 @@
+.card {
+    width: $card-height;
+    height: $card-height;
+    margin: 12px 14px;
+    box-shadow: 6px 6px 6px $box-shadow;
+    padding: 0;
+    border: none;
+    border-radius: 15px;
+}
+
+.home__row-wrapper {
+    margin-bottom: 120px;
+}
+
+.home__card--white {
+    background-color: $white;
+    border: solid $pink;
+}
+
+.home__card--pink {
+    background-color: $pink;
+}
+
+.container {
+    padding: 0;
+}
